@@ -1,7 +1,8 @@
 # Today I Learned - 오늘 내가 배운 것들
 >  [🔗 참고한 TIL](https://github.com/namjunemy/TIL) <br>
 >  [🔗 Spring 실습 내용](https://github.com/yeonwoo1125/SpringStudy.git)<br>
->  [🔗 실습 중인 강의](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8/dashboard)
+>  [🔗 실습 중인 강의](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8/dashboard)<br>
+>  [🔗 노션](https://www.notion.so/Spring-12a393b84e7f4c8c8c4b10d8f5c69054)
 
 <br><hr>
 ## 세부사항
